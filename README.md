@@ -2,7 +2,12 @@
 
 An AI-powered computer vision system for analyzing airport surveillance footage, tracking people and objects, detecting potentially suspicious behavior, and generating visual security evidence.
 
+## Live Demo
+
+🚀 **Live Application:** https://airport-security-system.streamlit.app/
+
 ---
+
 
 ## Overview
 
